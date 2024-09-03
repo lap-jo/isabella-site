@@ -24,9 +24,9 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
+    - identifier: poems
+      name: poems
+      title: Poems
       url: /blogs
       weight: 1
     - identifier: gallery
@@ -56,7 +56,7 @@ params:
   title: "Poetic Palette"
   description: poems by Me.
   # staticPath: "/static"  # The path to serve the static files from
-  # favicon: "favicon.ico"
+  favicon: "/images/favicon.ico"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -76,7 +76,7 @@ params:
 
   theme:
     disableThemeToggle: true
-    defaultTheme: "light" # dark
+    defaultTheme: "dark" # dark
 
   font:
     fontSize: 1rem # default: 1rem

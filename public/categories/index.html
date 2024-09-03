@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
-<link rel="icon" href=/fav.png type="image/gif">
+<link rel="icon" href=/images/favicon.ico type="image/gif">
 
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -225,9 +225,9 @@ Categories | Poetic Palette
                     
                     
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/blogs" title="Blog posts">
+                        <a class="nav-link" href="/blogs" title="Poems">
                             
-                            Blog
+                            poems
                         </a>
                     </li>
                     
@@ -335,13 +335,11 @@ Categories | Poetic Palette
 </div>
 </footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
-    if (document.body.className.includes("dark")) {
-        document.body.classList.remove('dark');
-        localStorage.setItem("pref-theme", 'light');
+    if (document.body.className.includes("light")) {
+        document.body.classList.add('dark');
+        localStorage.setItem("pref-theme", 'dark');
     }
 </script>
-
-
 
 
     <script src="/js/search.js"></script>
