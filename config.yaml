@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-title: "Isabella's Universe"
+title: "Poetic Palette"
 theme: hugo-profile
 
 outputs:
@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Isabella's Universe"
+  title: "Poetic Palette"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -109,7 +109,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Isabella's Universe" # Brand name for the brand | default is the title variable
+    brandName: "Poetic Palete" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -129,7 +129,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Isabella."
-    subtitle: "Lacus, risus, id vitae."
+    subtitle: "Poetry, Ballads, & more"
     content: "Lectus non lectus, dui magna felis, id dui molestie dictum. Hac praesent sed, ante est ultricies, in dui ac mi. Pellentesque laoreet, proin blandit, suspendisse eu."
     image: /images/hero.svg
     bottomImage:
@@ -143,13 +143,13 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
+        - icon: fab fa-instagram
           url: https://example.com
-        - icon: fab fa-x-twitter
+        - icon: fab fa-snapchat
           url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+      # customIcons:
+        # - icon: /fav.png
+          # url: "https://example.com"
 
   # About
   about:
@@ -353,7 +353,7 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
@@ -373,11 +373,13 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
+      # github: https://github.com
+      # linkedin: https://linkedin.com
+      # twitter: https://twitter.com
+      tiktok: https://tiktok.com
+      snapchat: https://snapchat.com
       instagram: https://instagram.com
-      facebook: https://facebook.com
+      # facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
