@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   branch: main
   repo: https:github.com/lap-jo/isabella-site
   commit_messages:
@@ -66,5 +66,6 @@ collections:
         name: 'author',
         widget: 'string',
         }
+      - image: {label: 'headline image', widget: 'string', default: 'use an image url here'}
 
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
