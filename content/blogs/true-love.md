@@ -4,7 +4,7 @@ date: 2024-09-10T12:10:00+03:00
 description: "no description "
 draft: false
 author: Isabella Lapwoch
-image: no image.
+image: "' '"
 ---
 He was her first
 
