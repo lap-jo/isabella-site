@@ -1,10 +1,10 @@
 ---
 title: True Love
 date: 2024-09-10T12:10:00+03:00
-description: idk.
+description: "no description "
 draft: false
 author: Isabella Lapwoch
-image: use an image url here
+image: no image.
 ---
 He was her first
 
