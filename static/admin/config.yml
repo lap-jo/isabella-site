@@ -23,9 +23,9 @@ slug:
   sanitize_replacement: "-"
 
 collections:
-  - name: 'blogs'
+  - name: 'Poem'
     label: 'blogs'
-    label_singular: 'poem'
+    label_singular: 'blog'
     folder: '/content/blogs/'
     public_folder: "/blogs"
     create: true
@@ -66,6 +66,6 @@ collections:
         name: 'author',
         widget: 'string',
         }
-      - image: {label: 'headline image', widget: 'string', default: 'use an image url here'}
+      - {label: 'image', name: 'image', widget: 'string', default: 'use an image url here'}
 
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
