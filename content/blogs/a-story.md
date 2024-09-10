@@ -5,9 +5,9 @@ description: A female whose beliefs caught up to the real world | the villain he
   was | a story of a female | of a foresaken world
 draft: false
 author: isabellabydefault
-image: https://www.pexels.com/photo/woman-in-blue-denim-jacket-7279113
+image: https://images.pexels.com/photos/7279113/pexels-photo-7279113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
-![a woman with a look of sadness on her face. Photo by MART  PRODUCTION on pexels](https://www.pexels.com/photo/woman-in-blue-denim-jacket-7279113/)
+![a woman with a look of sadness on her face. Photo by MART  PRODUCTION on pexels](https://images.pexels.com/photos/7279113/pexels-photo-7279113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 A Story
 
